@@ -1,0 +1,7 @@
+{
+  "Login": "//a[normalize-space()='Login']",
+  "Username": "//input[@formcontrolname='username']",
+  "Password": "//input[@formcontrolname='password']",
+  "Login_Button": "//button[@label='LOGIN']",
+  "Courses": "//h6[@title='Courses']"
+}

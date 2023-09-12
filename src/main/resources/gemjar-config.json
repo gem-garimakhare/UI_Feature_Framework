@@ -1,0 +1,32 @@
+{
+  "environment": "prod",
+  "project_name": "DEMO13",
+  "report_name": "Demo_Report",
+  "jewel_user": "garimakhare13",
+  "jewel_bridge_token": "6aaa3f9c-a66b-47af-9d44-6f165b793d841694406012630",
+  "enter_point": "https://apis.gemecosystem.com/enter-point",
+  "feature": "src/main/resources/Features",
+  "console_report": "n",
+  "email_report": "n",
+  "glue_code": "stepdefinition",
+  "email_to": [
+    "garima.khare@geminisolutions.com"
+  ],
+
+  "jira_email": "kiran.kumari@geminisolutions.com",
+  "jira_access_token": "w1j5abA72AGof9h2nbgS458E",
+  "jira_project_id": "10005",
+  "jira_workflow": ["DETAILED ADDED", "BUG ACCEPTED", "IN DEV", "CODE REVIEW", "READY FOR QA", "IN TEST", "TEST DONE", "READY FOR PROD", "PROD DEPLOYED"],
+  "jira_testcase_flag": "Y",
+  "azure_project": "Gemjar",
+  "azure_pat_token": "m6dclxbmhx7qgzhsh2w6umkcf5ioe4vim7uidqskianqv7jbgiba",
+  "azure_workflow": ["Bug Fixed"],
+  "azure_testcase_flag": "N",
+  "azure_assigned_to": "garima.khare@geminisolutions.com",
+
+  "prod": {
+    "browser_name": "chrome",
+    "launch_url": "https://athena.geminisolutions.com/"
+  }
+
+}
