@@ -3,7 +3,7 @@
   "project_name": "DEMO13",
   "report_name": "Demo_Report",
   "jewel_user": "garimakhare13",
-  "jewel_bridge_token": "6aaa3f9c-a66b-47af-9d44-6f165b793d841694406012630",
+  "jewel_bridge_token": "TOKEN",
   "enter_point": "https://apis.gemecosystem.com/enter-point",
   "feature": "src/main/resources/Features",
   "console_report": "n",
